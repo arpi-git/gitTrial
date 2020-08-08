@@ -1,2 +1,2 @@
 # gitTrial
-Test
+Test repo for git trial
